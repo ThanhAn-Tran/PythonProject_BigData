@@ -88,5 +88,5 @@ Your system is now deployed and ready for use. Ensure all configurations are cor
 
 **Author:** Trần Thành An  
 **License:** MIT  
-**GitHub:** [Your GitHub Profile](https://github.com/ThanhAn-Tran)
+**GitHub:** [ThanhAn-Tran](https://github.com/ThanhAn-Tran)
 
